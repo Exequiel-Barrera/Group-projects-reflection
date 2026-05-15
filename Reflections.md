@@ -1,4 +1,4 @@
-Throughout the group projects i have to be part of and worked with , I took on multiple roles, including Git Lead in the Strength project, and contributing to both backend and frontend in projects works such as the Weather Oracle and Merge and Cry Later . These opportunities or experiences working in a team, it  helped me understand how working in a team actually feels in a real development environment, especially when things don’t always go smoothly.
+Throughout the group projects i have been part of and worked with different people on group projects where  I took on multiple roles, including Git Lead in the Strength project, and contributing to both backend and frontend in projects works such as the Weather Oracle and Merge and Cry Later . These opportunities or experiences working in a team, it  helped me understand how working in a team actually feels in a real development environment, especially when things don’t always go smoothly.
 
 Git Lead for example on the – Strength Project;
 
